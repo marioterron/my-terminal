@@ -12,7 +12,7 @@
 
 It comes bundled with a ton of helpful functions, helpers, plugins, themes, and a few things that make you shout...
 
-* [Oh-My-Zsh](https://ohmyz.sh)
+* [Oh-My-Zsh](http://ohmyz.sh)
 * Theme: [Node](https://github.com/skuridin/oh-my-zsh-node-theme)
 * Plugins:
   * git
