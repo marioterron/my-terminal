@@ -12,8 +12,8 @@
 
 It comes bundled with a ton of helpful functions, helpers, plugins, themes, and a few things that make you shout...
 
-* [Oh-My-Zsh](http://github.com/Bash-it/bash-it)
-* Theme: [Node](https://github.com/robbyrussell/oh-my-zsh)
+* [Oh-My-Zsh](ohmyz.sh)
+* Theme: [Node](https://github.com/skuridin/oh-my-zsh-node-theme)
 * Plugins:
   * git
   * history
